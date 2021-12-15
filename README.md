@@ -1,10 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <h1>Kim, Yujin 🔥</h1>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujin-Kim&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uzin97)](https://solved.ac/uzin97)
+</div>
 
 <!--
-**Ujin-Kim/Ujin-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
