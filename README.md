@@ -15,12 +15,10 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-  
-  
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujin-Kim&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uzin97)](https://solved.ac/uzin97)
 </div>
