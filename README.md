@@ -14,12 +14,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujin-Kim&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
